@@ -29,6 +29,7 @@ module.exports = {
           { name: `Jessie`, slug: `/jessie` },
           { name: `Nature`, slug: `/nature` },
           { name: `About`, slug: `/about` },
+          { name: `Iconic-Images`, slug: `/iconic-images` },
         ],
       },
     },
